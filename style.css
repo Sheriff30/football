@@ -81,7 +81,8 @@ colors
 
 @media (max-width: 850px) {
   .ul2 li:nth-child(4) {
-    width: 30rem;
+    max-width: 30rem;
+    width: 100%;
   }
 }
 
@@ -112,8 +113,8 @@ figure {
 }
 
 .imgs div {
-  width: 25rem;
-  max-width: 100%;
+  width: 100%;
+  max-width: 25rem;
   height: 35rem;
   overflow: hidden;
   border-radius: 5rem;
