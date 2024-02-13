@@ -81,7 +81,7 @@ colors
 
 @media (max-width: 850px) {
   .ul2 li:nth-child(4) {
-    width: 20rem;
+    width: 15rem;
     right: 0;
     top: -30%;
   }
